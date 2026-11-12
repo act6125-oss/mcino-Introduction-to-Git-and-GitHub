@@ -1,28 +1,12 @@
-curl.exe -s https://api.github.com/repos/act6125-oss/mcino-Introduction-to-Git-and-GitHub
+
+PS C:\Users\Admin> curl.exe -s https://api.github.com/repos/act6125-oss/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1455370949,
   "node_id": "R_kgDOVr8yxQ",
   "name": "mcino-Introduction-to-Git-and-GitHub",
   "full_name": "act6125-oss/mcino-Introduction-to-Git-and-GitHub",
   "private": false,
-  "owner": {
-    "login": "act6125-oss",
-    "id": 318719021,
-    "node_id": "U_kgDOEv9ELQ",
-    "avatar_url": "https://avatars.githubusercontent.com/u/318719021?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/act6125-oss",
-    "html_url": "https://github.com/act6125-oss",
-    "followers_url": "https://api.github.com/users/act6125-oss/followers",
-    "following_url": "https://api.github.com/users/act6125-oss/following{/other_user}",
-    "gists_url": "https://api.github.com/users/act6125-oss/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/act6125-oss/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/act6125-oss/subscriptions",
-    "organizations_url": "https://api.github.com/users/act6125-oss/orgs",
-    "repos_url": "https://api.github.com/users/act6125-oss/repos",
-    "events_url": "https://api.github.com/users/act6125-oss/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/act6125-oss/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false
-  },
+  "fork": true,
+  "html_url": "https://github.com/act6125-oss/mcino-Introduction-to-Git-and-GitHub"
+}
+
